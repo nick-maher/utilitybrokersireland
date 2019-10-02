@@ -1,3 +1,4 @@
+/* ----------------------------------------Background Images ---------------------*/
 
 .homepage_image {
     
@@ -9,6 +10,14 @@
     
 }
 
+.elec_image {
+     background-image: url("../images/elecpage.jpg");
+    width: 100%;
+    height: auto; 
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
 
 
 /* ------------------------------------------------ Header ---------------------*/
