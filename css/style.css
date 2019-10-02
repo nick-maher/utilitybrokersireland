@@ -1,0 +1,90 @@
+.homepage_img {
+     background: url('"../images/homepage.jpg"')no-repeat center center fixed; 
+-webkit-background-size: cover;
+-moz-background-size: cover;
+-o-background-size: cover;
+
+    background-size: cover;;
+    
+   
+    }
+
+
+}
+
+/* ------------------------------------------------ Header ---------------------*/
+
+.navalert-container {
+    
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    padding-left: 0;
+    padding-right: 0;
+    z-index: 1;
+    
+}
+
+
+.navbar {
+    margin-bottom: 0;
+    width: 100%;
+    background-color: transparent;
+    border: 0;
+}
+    
+.navbar .navbar-toggler {
+    border: 0;
+}
+
+.navbar .navbar-brand {
+    font-weight: bold;
+}
+
+.navbar .navbar-nav a {
+    font-weight: bold;
+}
+
+
+.btn_enq {
+    font-weight: bold;
+    border-radius: 20px;
+    width: 200px;
+    color: #BF2D5B;
+    background-color: #D4EDCA;
+    border-color: #10E51B;
+}
+
+.nav-item {
+    font-size: 20px;
+} 
+ 
+.navbar-text {
+    
+    font-size: 18px;
+    color: #343a40;
+    font-family: "dr-sugiyama";
+}
+
+/* ------------------------------------------------ Section ---------------------*/
+
+.jumbotron {
+    background-color: transparent;
+}
+
+/* ------------------------------------------------ Footer ---------------------*/
+
+footer {position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: grey;
+  color: white;
+  text-align: center;
+}
+
+
+    
+
+
+
