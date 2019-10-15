@@ -109,8 +109,8 @@
 
 footer {
   
-
-  height: 100px;
+  position: fixed;
+  height: 200px;
   
   left: 0;
   bottom: 0;
